@@ -15,7 +15,7 @@ namespace SysRumahSakit.Models
 
         public override void Aktivitas()
         {
-            Console.WriteLine($"{Nama} sedang bertugas sebagai tenaga medis.");
+            Console.WriteLine($"{Nama} sedang bertugas sebagai tenaga medis di rumsah sakit.");
         }
 
         public void CekSpesialis() 

@@ -33,5 +33,5 @@ Console.WriteLine("\nSoal 4:");
 pasienAnak1.Menangis();
 
 Console.WriteLine("\nSoal 5");
-Orang orang = new Perawat("Rina Kartika", 28, "ICU");
+Orang orang = new Perawat("Rina Coraline", 28, "ICU");
 orang.Aktivitas();

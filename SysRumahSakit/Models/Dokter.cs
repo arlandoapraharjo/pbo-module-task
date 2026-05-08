@@ -6,7 +6,7 @@
 
         public override void Aktivitas()
         {
-            Console.WriteLine($"Dr. {Nama} sedang melakukan pemeriksaan kepada pasien.");
+            Console.WriteLine($"Dr. {Nama} sedang melakukan pemeriksaan pada pasien.");
         }
 
         public void Diagnosa()

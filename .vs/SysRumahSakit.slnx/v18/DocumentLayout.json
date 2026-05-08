@@ -7,16 +7,8 @@
       "RelativeMoniker": "D:0:0:{DE4EDAB0-169D-9B2B-83CF-B6861CC04C81}|SysRumahSakit\\SysRumahSakit.csproj|solutionrelative:sysrumahsakit\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE4EDAB0-169D-9B2B-83CF-B6861CC04C81}|SysRumahSakit\\SysRumahSakit.csproj|c:\\users\\dwi ari andayani\\source\\repos\\sysrumahsakit\\sysrumahsakit\\models\\dokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4EDAB0-169D-9B2B-83CF-B6861CC04C81}|SysRumahSakit\\SysRumahSakit.csproj|solutionrelative:sysrumahsakit\\models\\dokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DE4EDAB0-169D-9B2B-83CF-B6861CC04C81}|SysRumahSakit\\SysRumahSakit.csproj|c:\\users\\dwi ari andayani\\source\\repos\\sysrumahsakit\\sysrumahsakit\\models\\pasienanak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE4EDAB0-169D-9B2B-83CF-B6861CC04C81}|SysRumahSakit\\SysRumahSakit.csproj|solutionrelative:sysrumahsakit\\models\\pasienanak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE4EDAB0-169D-9B2B-83CF-B6861CC04C81}|SysRumahSakit\\SysRumahSakit.csproj|c:\\users\\dwi ari andayani\\source\\repos\\sysrumahsakit\\sysrumahsakit\\models\\pasiendewasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4EDAB0-169D-9B2B-83CF-B6861CC04C81}|SysRumahSakit\\SysRumahSakit.csproj|solutionrelative:sysrumahsakit\\models\\pasiendewasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE4EDAB0-169D-9B2B-83CF-B6861CC04C81}|SysRumahSakit\\SysRumahSakit.csproj|c:\\users\\dwi ari andayani\\source\\repos\\sysrumahsakit\\sysrumahsakit\\models\\perawat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +19,12 @@
       "RelativeMoniker": "D:0:0:{DE4EDAB0-169D-9B2B-83CF-B6861CC04C81}|SysRumahSakit\\SysRumahSakit.csproj|solutionrelative:sysrumahsakit\\models\\tenagamedis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE4EDAB0-169D-9B2B-83CF-B6861CC04C81}|SysRumahSakit\\SysRumahSakit.csproj|c:\\users\\dwi ari andayani\\source\\repos\\sysrumahsakit\\sysrumahsakit\\main\\rumahsakit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4EDAB0-169D-9B2B-83CF-B6861CC04C81}|SysRumahSakit\\SysRumahSakit.csproj|solutionrelative:sysrumahsakit\\main\\rumahsakit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE4EDAB0-169D-9B2B-83CF-B6861CC04C81}|SysRumahSakit\\SysRumahSakit.csproj|c:\\users\\dwi ari andayani\\source\\repos\\sysrumahsakit\\sysrumahsakit\\models\\pasiendewasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4EDAB0-169D-9B2B-83CF-B6861CC04C81}|SysRumahSakit\\SysRumahSakit.csproj|solutionrelative:sysrumahsakit\\models\\pasiendewasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4EDAB0-169D-9B2B-83CF-B6861CC04C81}|SysRumahSakit\\SysRumahSakit.csproj|c:\\users\\dwi ari andayani\\source\\repos\\sysrumahsakit\\sysrumahsakit\\models\\dokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4EDAB0-169D-9B2B-83CF-B6861CC04C81}|SysRumahSakit\\SysRumahSakit.csproj|solutionrelative:sysrumahsakit\\models\\dokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE4EDAB0-169D-9B2B-83CF-B6861CC04C81}|SysRumahSakit\\SysRumahSakit.csproj|c:\\users\\dwi ari andayani\\source\\repos\\sysrumahsakit\\sysrumahsakit\\main\\orang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,6 +33,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{DE4EDAB0-169D-9B2B-83CF-B6861CC04C81}|SysRumahSakit\\SysRumahSakit.csproj|c:\\users\\dwi ari andayani\\source\\repos\\sysrumahsakit\\sysrumahsakit\\models\\pasien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE4EDAB0-169D-9B2B-83CF-B6861CC04C81}|SysRumahSakit\\SysRumahSakit.csproj|solutionrelative:sysrumahsakit\\models\\pasien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4EDAB0-169D-9B2B-83CF-B6861CC04C81}|SysRumahSakit\\SysRumahSakit.csproj|c:\\users\\dwi ari andayani\\source\\repos\\sysrumahsakit\\sysrumahsakit\\main\\rumahsakit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4EDAB0-169D-9B2B-83CF-B6861CC04C81}|SysRumahSakit\\SysRumahSakit.csproj|solutionrelative:sysrumahsakit\\main\\rumahsakit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,85 +54,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Perawat.cs",
               "DocumentMoniker": "C:\\Users\\Dwi Ari Andayani\\source\\repos\\SysRumahSakit\\SysRumahSakit\\Models\\Perawat.cs",
               "RelativeDocumentMoniker": "SysRumahSakit\\Models\\Perawat.cs",
               "ToolTip": "C:\\Users\\Dwi Ari Andayani\\source\\repos\\SysRumahSakit\\SysRumahSakit\\Models\\Perawat.cs",
               "RelativeToolTip": "SysRumahSakit\\Models\\Perawat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-08T08:27:16.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Dokter.cs",
               "DocumentMoniker": "C:\\Users\\Dwi Ari Andayani\\source\\repos\\SysRumahSakit\\SysRumahSakit\\Models\\Dokter.cs",
               "RelativeDocumentMoniker": "SysRumahSakit\\Models\\Dokter.cs",
               "ToolTip": "C:\\Users\\Dwi Ari Andayani\\source\\repos\\SysRumahSakit\\SysRumahSakit\\Models\\Dokter.cs",
               "RelativeToolTip": "SysRumahSakit\\Models\\Dokter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-08T08:25:58.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "TenagaMedis.cs",
               "DocumentMoniker": "C:\\Users\\Dwi Ari Andayani\\source\\repos\\SysRumahSakit\\SysRumahSakit\\Models\\TenagaMedis.cs",
               "RelativeDocumentMoniker": "SysRumahSakit\\Models\\TenagaMedis.cs",
               "ToolTip": "C:\\Users\\Dwi Ari Andayani\\source\\repos\\SysRumahSakit\\SysRumahSakit\\Models\\TenagaMedis.cs",
               "RelativeToolTip": "SysRumahSakit\\Models\\TenagaMedis.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBYAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBEAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-08T08:25:44.34Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PasienDewasa.cs",
               "DocumentMoniker": "C:\\Users\\Dwi Ari Andayani\\source\\repos\\SysRumahSakit\\SysRumahSakit\\Models\\PasienDewasa.cs",
               "RelativeDocumentMoniker": "SysRumahSakit\\Models\\PasienDewasa.cs",
               "ToolTip": "C:\\Users\\Dwi Ari Andayani\\source\\repos\\SysRumahSakit\\SysRumahSakit\\Models\\PasienDewasa.cs",
               "RelativeToolTip": "SysRumahSakit\\Models\\PasienDewasa.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-08T08:24:59.193Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PasienAnak.cs",
               "DocumentMoniker": "C:\\Users\\Dwi Ari Andayani\\source\\repos\\SysRumahSakit\\SysRumahSakit\\Models\\PasienAnak.cs",
               "RelativeDocumentMoniker": "SysRumahSakit\\Models\\PasienAnak.cs",
               "ToolTip": "C:\\Users\\Dwi Ari Andayani\\source\\repos\\SysRumahSakit\\SysRumahSakit\\Models\\PasienAnak.cs",
               "RelativeToolTip": "SysRumahSakit\\Models\\PasienAnak.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-08T08:23:45.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Pasien.cs",
               "DocumentMoniker": "C:\\Users\\Dwi Ari Andayani\\source\\repos\\SysRumahSakit\\SysRumahSakit\\Models\\Pasien.cs",
               "RelativeDocumentMoniker": "SysRumahSakit\\Models\\Pasien.cs",
               "ToolTip": "C:\\Users\\Dwi Ari Andayani\\source\\repos\\SysRumahSakit\\SysRumahSakit\\Models\\Pasien.cs",
               "RelativeToolTip": "SysRumahSakit\\Models\\Pasien.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-08T08:23:22.739Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Orang.cs",
               "DocumentMoniker": "C:\\Users\\Dwi Ari Andayani\\source\\repos\\SysRumahSakit\\SysRumahSakit\\Main\\Orang.cs",
               "RelativeDocumentMoniker": "SysRumahSakit\\Main\\Orang.cs",
@@ -145,13 +145,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "RumahSakit.cs",
               "DocumentMoniker": "C:\\Users\\Dwi Ari Andayani\\source\\repos\\SysRumahSakit\\SysRumahSakit\\Main\\RumahSakit.cs",
               "RelativeDocumentMoniker": "SysRumahSakit\\Main\\RumahSakit.cs",
               "ToolTip": "C:\\Users\\Dwi Ari Andayani\\source\\repos\\SysRumahSakit\\SysRumahSakit\\Main\\RumahSakit.cs",
               "RelativeToolTip": "SysRumahSakit\\Main\\RumahSakit.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-08T05:35:18.892Z",
               "EditorCaption": ""
@@ -164,7 +164,7 @@
               "RelativeDocumentMoniker": "SysRumahSakit\\Main\\Program.cs",
               "ToolTip": "C:\\Users\\Dwi Ari Andayani\\source\\repos\\SysRumahSakit\\SysRumahSakit\\Main\\Program.cs",
               "RelativeToolTip": "SysRumahSakit\\Main\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-08T05:28:04.814Z",
               "EditorCaption": ""
