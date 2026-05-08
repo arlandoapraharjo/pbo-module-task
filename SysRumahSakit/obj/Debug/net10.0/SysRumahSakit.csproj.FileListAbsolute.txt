@@ -1,0 +1,14 @@
+C:\Users\Dwi Ari Andayani\source\repos\SysRumahSakit\SysRumahSakit\bin\Debug\net10.0\SysRumahSakit.exe
+C:\Users\Dwi Ari Andayani\source\repos\SysRumahSakit\SysRumahSakit\bin\Debug\net10.0\SysRumahSakit.deps.json
+C:\Users\Dwi Ari Andayani\source\repos\SysRumahSakit\SysRumahSakit\bin\Debug\net10.0\SysRumahSakit.runtimeconfig.json
+C:\Users\Dwi Ari Andayani\source\repos\SysRumahSakit\SysRumahSakit\bin\Debug\net10.0\SysRumahSakit.dll
+C:\Users\Dwi Ari Andayani\source\repos\SysRumahSakit\SysRumahSakit\bin\Debug\net10.0\SysRumahSakit.pdb
+C:\Users\Dwi Ari Andayani\source\repos\SysRumahSakit\SysRumahSakit\obj\Debug\net10.0\SysRumahSakit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dwi Ari Andayani\source\repos\SysRumahSakit\SysRumahSakit\obj\Debug\net10.0\SysRumahSakit.AssemblyInfoInputs.cache
+C:\Users\Dwi Ari Andayani\source\repos\SysRumahSakit\SysRumahSakit\obj\Debug\net10.0\SysRumahSakit.AssemblyInfo.cs
+C:\Users\Dwi Ari Andayani\source\repos\SysRumahSakit\SysRumahSakit\obj\Debug\net10.0\SysRumahSakit.csproj.CoreCompileInputs.cache
+C:\Users\Dwi Ari Andayani\source\repos\SysRumahSakit\SysRumahSakit\obj\Debug\net10.0\SysRumahSakit.dll
+C:\Users\Dwi Ari Andayani\source\repos\SysRumahSakit\SysRumahSakit\obj\Debug\net10.0\refint\SysRumahSakit.dll
+C:\Users\Dwi Ari Andayani\source\repos\SysRumahSakit\SysRumahSakit\obj\Debug\net10.0\SysRumahSakit.pdb
+C:\Users\Dwi Ari Andayani\source\repos\SysRumahSakit\SysRumahSakit\obj\Debug\net10.0\SysRumahSakit.genruntimeconfig.cache
+C:\Users\Dwi Ari Andayani\source\repos\SysRumahSakit\SysRumahSakit\obj\Debug\net10.0\ref\SysRumahSakit.dll
